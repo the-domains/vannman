@@ -1,0 +1,28 @@
+name: vannman
+favicon: null
+layout_spectrum: 0.218171312706545
+typography_spectrum: 0.7552246591076255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.16858115559443831
+  lightness: 0.656505384016782
+  saturation: 0.1644374062307179
+  rhythmicContrast: 0.7888851226307452
+purpose: []
